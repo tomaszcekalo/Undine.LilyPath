@@ -1,4 +1,6 @@
-﻿namespace Undine.LilyPath
+﻿using LilyPath;
+
+namespace Undine.LilyPath
 {
     public struct LilyPathComponent
     {
