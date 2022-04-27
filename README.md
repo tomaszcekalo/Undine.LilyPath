@@ -5,3 +5,4 @@
 
 # Undine.LilyPath
 LilyPath bindings for Undine Game Engine
+[![CodeFactor](https://www.codefactor.io/repository/github/tomaszcekalo/Undine.LilyPath/badge)](https://www.codefactor.io/repository/github/tomaszcekalo/Undine.LilyPath)
