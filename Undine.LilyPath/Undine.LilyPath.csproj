@@ -21,7 +21,7 @@
   <ItemGroup>
     <PackageReference Include="LilyPath" Version="0.0.4" />
     <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303" />
-    <PackageReference Include="Undine.MonoGame" Version="0.0.4" />
+    <PackageReference Include="Undine.MonoGame" Version="0.0.5" />
   </ItemGroup>
 
 </Project>
