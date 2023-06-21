@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <Description>LilyPath binding for Undine Game Engine</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/tomaszcekalo/Undine.LilyPath</PackageProjectUrl>
@@ -21,7 +21,7 @@
   <ItemGroup>
     <PackageReference Include="LilyPath" Version="0.0.4" />
     <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303" />
-    <PackageReference Include="Undine.MonoGame" Version="0.0.5" />
+    <PackageReference Include="Undine.MonoGame" Version="0.0.6" />
   </ItemGroup>
 
 </Project>
